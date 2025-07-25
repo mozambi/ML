@@ -1,0 +1,4 @@
+distance = float(input("Enter Distance in Metres (m):"))
+time = float(input("Enter time in (s):"))
+speed = distance/time
+print(f"The speed of the car is: {speed} m\\s")
